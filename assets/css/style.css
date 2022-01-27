@@ -1,0 +1,21 @@
+header {
+    margin: 2px;
+    border: 2px;
+    padding: 2px;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.section {
+    margin: 200px;
+}
+.btn-group {
+    background-color: rgb(177, 165, 165);
+    border: 1px solid black;
+    color: red;
+    width: 25%;
+    display: block;
+
+}
